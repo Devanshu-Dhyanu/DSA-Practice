@@ -1,0 +1,1 @@
+// This is problem 1 from the Arrays section of the LeetCode problems. The problem is to find the maximum product of two integers in an array.
