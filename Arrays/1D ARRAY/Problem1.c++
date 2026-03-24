@@ -13,7 +13,7 @@ int main(){
         cin>>arr[i];
     }
 
-    int product = 1;
+    int product = 1;    // initialised product with 1 not with zero because 0 will make all the products to 0
     for(int i = 0; i < size; i++){
         product = product * arr[i];
     }
