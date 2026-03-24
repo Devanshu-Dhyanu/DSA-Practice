@@ -1,4 +1,4 @@
-//Find the element x in the array. Take array and x as input;
+//Find the element x in the array (first occurance). Take array and x as input;
 
 #include<iostream>
 using namespace std;
