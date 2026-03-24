@@ -20,4 +20,7 @@ int main(){
             cout<<i<<" ";
         }
     }
+
+    // Solved by : Devanshu Kumar
+    return 0;
 }
