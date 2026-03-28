@@ -1,3 +1,4 @@
+// Second Largest Element in one pass
 #include <iostream>
 using namespace std;
 
@@ -21,4 +22,5 @@ int main() {
     cout << "Second Largest: " << smax << endl;
 
     return 0;
+    //c
 }
